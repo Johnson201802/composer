@@ -1,0 +1,11 @@
+{
+    "name": "jason/composer",
+    "description": "test",
+    "authors": [
+        {
+            "name": "jason",
+            "email": "1475351244@qq.com"
+        }
+    ],
+    "require": {}
+}
